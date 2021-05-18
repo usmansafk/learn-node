@@ -1,0 +1,26 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "description": "This is just small crash course on node",
+  "main": "app.js",
+  "scripts": {
+    "develop": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmansafk/learn-node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Usman Sajid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usmansafk/learn-node/issues"
+  },
+  "homepage": "https://github.com/usmansafk/learn-node#readme",
+  "dependencies": {
+    "color": "^3.1.3",
+    "nodeman": "^1.1.2"
+  }
+}
